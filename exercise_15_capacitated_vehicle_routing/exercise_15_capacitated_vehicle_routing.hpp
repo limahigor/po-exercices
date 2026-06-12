@@ -1,0 +1,6 @@
+#ifndef EXERCISE_15_CAPACITATED_VEHICLE_ROUTING_HPP
+#define EXERCISE_15_CAPACITATED_VEHICLE_ROUTING_HPP
+
+int run_exercise_15_capacitated_vehicle_routing();
+
+#endif
